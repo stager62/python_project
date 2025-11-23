@@ -1,0 +1,1002 @@
+[
+  {
+    "user_id": "773479027",
+    "name": "Анна Фомина",
+    "age": 65,
+    "gender": "Ж",
+    "monthly_income": 43635,
+    "monthly_expense": 36771,
+    "difference": 6864,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "285231214",
+    "name": "Тимофей Семенов",
+    "age": 31,
+    "gender": "М",
+    "monthly_income": 101192,
+    "monthly_expense": 94573,
+    "difference": 6619,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "571623589",
+    "name": "Галина Романова",
+    "age": 36,
+    "gender": "Ж",
+    "monthly_income": 118078,
+    "monthly_expense": 124598,
+    "difference": -6520,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "460370354",
+    "name": "Константин Данилов",
+    "age": 41,
+    "gender": "М",
+    "monthly_income": 69469,
+    "monthly_expense": 65219,
+    "difference": 4250,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "953925771",
+    "name": "Роман Романов",
+    "age": 42,
+    "gender": "М",
+    "monthly_income": 87161,
+    "monthly_expense": 77531,
+    "difference": 9630,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "298290991",
+    "name": "Алексей Макаров",
+    "age": 45,
+    "gender": "М",
+    "monthly_income": 57939,
+    "monthly_expense": 67392,
+    "difference": -9453,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "709240180",
+    "name": "Кирилл Иванов",
+    "age": 19,
+    "gender": "М",
+    "monthly_income": 28328,
+    "monthly_expense": 22503,
+    "difference": 5825,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "925237345",
+    "name": "Дарья Смирнова",
+    "age": 65,
+    "gender": "Ж",
+    "monthly_income": 47372,
+    "monthly_expense": 52584,
+    "difference": -5212,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "608931414",
+    "name": "Даниил Попов",
+    "age": 68,
+    "gender": "М",
+    "monthly_income": 26447,
+    "monthly_expense": 32293,
+    "difference": -5846,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "220111746",
+    "name": "Никита Макаров",
+    "age": 67,
+    "gender": "М",
+    "monthly_income": 30616,
+    "monthly_expense": 21738,
+    "difference": 8878,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "722610644",
+    "name": "Юлия Козлова",
+    "age": 22,
+    "gender": "Ж",
+    "monthly_income": 34960,
+    "monthly_expense": 53751,
+    "difference": -18791,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "755721122",
+    "name": "Полина Орлова",
+    "age": 28,
+    "gender": "Ж",
+    "monthly_income": 73456,
+    "monthly_expense": 55822,
+    "difference": 17634,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "472440057",
+    "name": "Роман Смирнов",
+    "age": 43,
+    "gender": "М",
+    "monthly_income": 66865,
+    "monthly_expense": 70813,
+    "difference": -3948,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "547741099",
+    "name": "Дарья Новикова",
+    "age": 21,
+    "gender": "Ж",
+    "monthly_income": 34032,
+    "monthly_expense": 25408,
+    "difference": 8624,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "473924607",
+    "name": "Василий Романов",
+    "age": 22,
+    "gender": "М",
+    "monthly_income": 37561,
+    "monthly_expense": 51322,
+    "difference": -13761,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "250956047",
+    "name": "Юлия Новикова",
+    "age": 39,
+    "gender": "Ж",
+    "monthly_income": 79941,
+    "monthly_expense": 73275,
+    "difference": 6666,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "524911349",
+    "name": "Лариса Николаева",
+    "age": 21,
+    "gender": "Ж",
+    "monthly_income": 28607,
+    "monthly_expense": 42114,
+    "difference": -13507,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "845312800",
+    "name": "Людмила Смирнова",
+    "age": 54,
+    "gender": "Ж",
+    "monthly_income": 40125,
+    "monthly_expense": 45015,
+    "difference": -4890,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "681374250",
+    "name": "Алина Иванова",
+    "age": 46,
+    "gender": "Ж",
+    "monthly_income": 108706,
+    "monthly_expense": 90888,
+    "difference": 17818,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "648608795",
+    "name": "Константин Попов",
+    "age": 61,
+    "gender": "М",
+    "monthly_income": 31183,
+    "monthly_expense": 39243,
+    "difference": -8060,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "625182770",
+    "name": "Олег Романов",
+    "age": 67,
+    "gender": "М",
+    "monthly_income": 58425,
+    "monthly_expense": 65517,
+    "difference": -7092,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "736683771",
+    "name": "Михаил Сидоров",
+    "age": 42,
+    "gender": "М",
+    "monthly_income": 50789,
+    "monthly_expense": 44210,
+    "difference": 6579,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "507458097",
+    "name": "Максим Кузнецов",
+    "age": 34,
+    "gender": "М",
+    "monthly_income": 96279,
+    "monthly_expense": 94887,
+    "difference": 1392,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "368796937",
+    "name": "Лариса Сергеева",
+    "age": 20,
+    "gender": "Ж",
+    "monthly_income": 44565,
+    "monthly_expense": 60098,
+    "difference": -15533,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "292487938",
+    "name": "Вероника Сидорова",
+    "age": 49,
+    "gender": "Ж",
+    "monthly_income": 119388,
+    "monthly_expense": 102799,
+    "difference": 16589,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "837306748",
+    "name": "Владислав Иванов",
+    "age": 35,
+    "gender": "М",
+    "monthly_income": 79632,
+    "monthly_expense": 75660,
+    "difference": 3972,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "636265852",
+    "name": "Сергей Захаров",
+    "age": 35,
+    "gender": "М",
+    "monthly_income": 79583,
+    "monthly_expense": 76743,
+    "difference": 2840,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "857410855",
+    "name": "Виктория Николаева",
+    "age": 34,
+    "gender": "Ж",
+    "monthly_income": 61081,
+    "monthly_expense": 48514,
+    "difference": 12567,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "996516166",
+    "name": "Полина Григорьева",
+    "age": 30,
+    "gender": "Ж",
+    "monthly_income": 52378,
+    "monthly_expense": 57358,
+    "difference": -4980,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "620231860",
+    "name": "Максим Волков",
+    "age": 59,
+    "gender": "М",
+    "monthly_income": 31776,
+    "monthly_expense": 26027,
+    "difference": 5749,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "275236043",
+    "name": "Михаил Романов",
+    "age": 70,
+    "gender": "М",
+    "monthly_income": 25302,
+    "monthly_expense": 27004,
+    "difference": -1702,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "214649323",
+    "name": "Ольга Степанова",
+    "age": 52,
+    "gender": "Ж",
+    "monthly_income": 29946,
+    "monthly_expense": 22399,
+    "difference": 7547,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "569776773",
+    "name": "Ярослав Алексеев",
+    "age": 46,
+    "gender": "М",
+    "monthly_income": 52944,
+    "monthly_expense": 33034,
+    "difference": 19910,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "788767387",
+    "name": "Наталья Алексеева",
+    "age": 34,
+    "gender": "Ж",
+    "monthly_income": 75224,
+    "monthly_expense": 57812,
+    "difference": 17412,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "618025006",
+    "name": "Тимофей Новиков",
+    "age": 19,
+    "gender": "М",
+    "monthly_income": 39018,
+    "monthly_expense": 37451,
+    "difference": 1567,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "624662360",
+    "name": "Алина Никитина",
+    "age": 66,
+    "gender": "Ж",
+    "monthly_income": 28795,
+    "monthly_expense": 20471,
+    "difference": 8324,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "717606981",
+    "name": "Евгения Смирнова",
+    "age": 21,
+    "gender": "Ж",
+    "monthly_income": 25940,
+    "monthly_expense": 23080,
+    "difference": 2860,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "996754287",
+    "name": "Юлия Павлова",
+    "age": 20,
+    "gender": "Ж",
+    "monthly_income": 22077,
+    "monthly_expense": 38155,
+    "difference": -16078,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "357261870",
+    "name": "Ксения Федорова",
+    "age": 40,
+    "gender": "Ж",
+    "monthly_income": 103476,
+    "monthly_expense": 104695,
+    "difference": -1219,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "132498889",
+    "name": "Анна Захарова",
+    "age": 40,
+    "gender": "Ж",
+    "monthly_income": 94836,
+    "monthly_expense": 81434,
+    "difference": 13402,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "796390311",
+    "name": "Виктория Козлова",
+    "age": 58,
+    "gender": "Ж",
+    "monthly_income": 56403,
+    "monthly_expense": 49006,
+    "difference": 7397,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "456991338",
+    "name": "Александра Алексеева",
+    "age": 20,
+    "gender": "Ж",
+    "monthly_income": 16646,
+    "monthly_expense": 7431,
+    "difference": 9215,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "839360723",
+    "name": "Татьяна Иванова",
+    "age": 27,
+    "gender": "Ж",
+    "monthly_income": 104853,
+    "monthly_expense": 115895,
+    "difference": -11042,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "807555793",
+    "name": "Егор Николаев",
+    "age": 70,
+    "gender": "М",
+    "monthly_income": 26852,
+    "monthly_expense": 34763,
+    "difference": -7911,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "758341876",
+    "name": "Ярослав Новиков",
+    "age": 53,
+    "gender": "М",
+    "monthly_income": 28719,
+    "monthly_expense": 30928,
+    "difference": -2209,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "458267287",
+    "name": "Илья Орлов",
+    "age": 37,
+    "gender": "М",
+    "monthly_income": 113542,
+    "monthly_expense": 94100,
+    "difference": 19442,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "577776864",
+    "name": "Борис Сергеев",
+    "age": 30,
+    "gender": "М",
+    "monthly_income": 84116,
+    "monthly_expense": 80826,
+    "difference": 3290,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "440220964",
+    "name": "Екатерина Степанова",
+    "age": 18,
+    "gender": "Ж",
+    "monthly_income": 26062,
+    "monthly_expense": 45461,
+    "difference": -19399,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "320441116",
+    "name": "Тимофей Зайцев",
+    "age": 52,
+    "gender": "М",
+    "monthly_income": 35906,
+    "monthly_expense": 27090,
+    "difference": 8816,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "499325361",
+    "name": "Станислав Кузнецов",
+    "age": 62,
+    "gender": "М",
+    "monthly_income": 36413,
+    "monthly_expense": 45273,
+    "difference": -8860,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "510140995",
+    "name": "Алексей Петров",
+    "age": 51,
+    "gender": "М",
+    "monthly_income": 31432,
+    "monthly_expense": 35865,
+    "difference": -4433,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "107500626",
+    "name": "Алексей Смирнов",
+    "age": 19,
+    "gender": "М",
+    "monthly_income": 41141,
+    "monthly_expense": 58793,
+    "difference": -17652,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "130801748",
+    "name": "Людмила Иванова",
+    "age": 28,
+    "gender": "Ж",
+    "monthly_income": 90695,
+    "monthly_expense": 75037,
+    "difference": 15658,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "471954550",
+    "name": "Андрей Новиков",
+    "age": 34,
+    "gender": "М",
+    "monthly_income": 64629,
+    "monthly_expense": 78390,
+    "difference": -13761,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "264100619",
+    "name": "Владислав Петров",
+    "age": 33,
+    "gender": "М",
+    "monthly_income": 94558,
+    "monthly_expense": 77843,
+    "difference": 16715,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "577511943",
+    "name": "Дарья Сергеева",
+    "age": 45,
+    "gender": "Ж",
+    "monthly_income": 115717,
+    "monthly_expense": 103721,
+    "difference": 11996,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "381904054",
+    "name": "Марина Сидорова",
+    "age": 28,
+    "gender": "Ж",
+    "monthly_income": 68973,
+    "monthly_expense": 63643,
+    "difference": 5330,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "333998852",
+    "name": "Станислав Григорьев",
+    "age": 64,
+    "gender": "М",
+    "monthly_income": 52977,
+    "monthly_expense": 54383,
+    "difference": -1406,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "495751920",
+    "name": "Виктория Попова",
+    "age": 53,
+    "gender": "Ж",
+    "monthly_income": 39483,
+    "monthly_expense": 40891,
+    "difference": -1408,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "911900146",
+    "name": "Вероника Степанова",
+    "age": 18,
+    "gender": "Ж",
+    "monthly_income": 38491,
+    "monthly_expense": 52895,
+    "difference": -14404,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "271811183",
+    "name": "Даниил Григорьев",
+    "age": 61,
+    "gender": "М",
+    "monthly_income": 47994,
+    "monthly_expense": 40226,
+    "difference": 7768,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "625609186",
+    "name": "Марина Козлова",
+    "age": 51,
+    "gender": "Ж",
+    "monthly_income": 25168,
+    "monthly_expense": 29511,
+    "difference": -4343,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "472858416",
+    "name": "Олег Васильев",
+    "age": 70,
+    "gender": "М",
+    "monthly_income": 52620,
+    "monthly_expense": 59532,
+    "difference": -6912,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "426764260",
+    "name": "Кирилл Кузнецов",
+    "age": 44,
+    "gender": "М",
+    "monthly_income": 88370,
+    "monthly_expense": 97644,
+    "difference": -9274,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "329791391",
+    "name": "Елена Степанова",
+    "age": 65,
+    "gender": "Ж",
+    "monthly_income": 51591,
+    "monthly_expense": 42270,
+    "difference": 9321,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "635449099",
+    "name": "Борис Алексеев",
+    "age": 23,
+    "gender": "М",
+    "monthly_income": 19578,
+    "monthly_expense": 23202,
+    "difference": -3624,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "421908776",
+    "name": "Ярослав Григорьев",
+    "age": 20,
+    "gender": "М",
+    "monthly_income": 19283,
+    "monthly_expense": 21047,
+    "difference": -1764,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "846217105",
+    "name": "Светлана Федорова",
+    "age": 48,
+    "gender": "Ж",
+    "monthly_income": 105882,
+    "monthly_expense": 92833,
+    "difference": 13049,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "561361508",
+    "name": "Юлия Сидорова",
+    "age": 60,
+    "gender": "Ж",
+    "monthly_income": 25344,
+    "monthly_expense": 34994,
+    "difference": -9650,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "814330112",
+    "name": "Михаил Григорьев",
+    "age": 70,
+    "gender": "М",
+    "monthly_income": 46410,
+    "monthly_expense": 41721,
+    "difference": 4689,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "350472824",
+    "name": "Марина Лебедева",
+    "age": 56,
+    "gender": "Ж",
+    "monthly_income": 38656,
+    "monthly_expense": 43911,
+    "difference": -5255,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "728981074",
+    "name": "Роман Данилов",
+    "age": 32,
+    "gender": "М",
+    "monthly_income": 101370,
+    "monthly_expense": 98367,
+    "difference": 3003,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "625935170",
+    "name": "Станислав Семенов",
+    "age": 70,
+    "gender": "М",
+    "monthly_income": 48323,
+    "monthly_expense": 41146,
+    "difference": 7177,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "573471928",
+    "name": "Дарья Алексеева",
+    "age": 40,
+    "gender": "Ж",
+    "monthly_income": 95809,
+    "monthly_expense": 90289,
+    "difference": 5520,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "959554955",
+    "name": "Илья Морозов",
+    "age": 69,
+    "gender": "М",
+    "monthly_income": 55474,
+    "monthly_expense": 49337,
+    "difference": 6137,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "911974896",
+    "name": "Сергей Алексеев",
+    "age": 19,
+    "gender": "М",
+    "monthly_income": 21631,
+    "monthly_expense": 39687,
+    "difference": -18056,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "596563038",
+    "name": "Дмитрий Воробьев",
+    "age": 62,
+    "gender": "М",
+    "monthly_income": 53241,
+    "monthly_expense": 51343,
+    "difference": 1898,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "799421302",
+    "name": "София Тихонова",
+    "age": 42,
+    "gender": "Ж",
+    "monthly_income": 52528,
+    "monthly_expense": 42044,
+    "difference": 10484,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "971042163",
+    "name": "Тимофей Волков",
+    "age": 62,
+    "gender": "М",
+    "monthly_income": 35749,
+    "monthly_expense": 45250,
+    "difference": -9501,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "111664434",
+    "name": "Екатерина Смирнова",
+    "age": 70,
+    "gender": "Ж",
+    "monthly_income": 46258,
+    "monthly_expense": 45017,
+    "difference": 1241,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "898818519",
+    "name": "Мария Смирнова",
+    "age": 42,
+    "gender": "Ж",
+    "monthly_income": 111229,
+    "monthly_expense": 96506,
+    "difference": 14723,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "342255115",
+    "name": "Василий Павлов",
+    "age": 21,
+    "gender": "М",
+    "monthly_income": 25879,
+    "monthly_expense": 19259,
+    "difference": 6620,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "175178268",
+    "name": "Александр Павлов",
+    "age": 25,
+    "gender": "М",
+    "monthly_income": 42289,
+    "monthly_expense": 58693,
+    "difference": -16404,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "386879880",
+    "name": "Владимир Андреев",
+    "age": 29,
+    "gender": "М",
+    "monthly_income": 64169,
+    "monthly_expense": 58451,
+    "difference": 5718,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "225494409",
+    "name": "Олег Смирнов",
+    "age": 70,
+    "gender": "М",
+    "monthly_income": 28021,
+    "monthly_expense": 34266,
+    "difference": -6245,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "449948634",
+    "name": "Максим Захаров",
+    "age": 69,
+    "gender": "М",
+    "monthly_income": 29541,
+    "monthly_expense": 27552,
+    "difference": 1989,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "796363842",
+    "name": "Артем Зайцев",
+    "age": 19,
+    "gender": "М",
+    "monthly_income": 20576,
+    "monthly_expense": 24735,
+    "difference": -4159,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "844539209",
+    "name": "Станислав Волков",
+    "age": 47,
+    "gender": "М",
+    "monthly_income": 97688,
+    "monthly_expense": 107063,
+    "difference": -9375,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "123734612",
+    "name": "Юлия Петрова",
+    "age": 18,
+    "gender": "Ж",
+    "monthly_income": 39912,
+    "monthly_expense": 47704,
+    "difference": -7792,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "419997134",
+    "name": "Павел Макаров",
+    "age": 67,
+    "gender": "М",
+    "monthly_income": 37432,
+    "monthly_expense": 40376,
+    "difference": -2944,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "423519680",
+    "name": "Константин Новиков",
+    "age": 27,
+    "gender": "М",
+    "monthly_income": 96610,
+    "monthly_expense": 87456,
+    "difference": 9154,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "222670090",
+    "name": "София Данилова",
+    "age": 56,
+    "gender": "Ж",
+    "monthly_income": 37007,
+    "monthly_expense": 41467,
+    "difference": -4460,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "362898847",
+    "name": "Анна Андреева",
+    "age": 20,
+    "gender": "Ж",
+    "monthly_income": 31084,
+    "monthly_expense": 21813,
+    "difference": 9271,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "980370982",
+    "name": "Михаил Васильев",
+    "age": 43,
+    "gender": "М",
+    "monthly_income": 97990,
+    "monthly_expense": 91029,
+    "difference": 6961,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "670844831",
+    "name": "Егор Данилов",
+    "age": 19,
+    "gender": "М",
+    "monthly_income": 44409,
+    "monthly_expense": 52329,
+    "difference": -7920,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "430438721",
+    "name": "Надежда Павлова",
+    "age": 27,
+    "gender": "Ж",
+    "monthly_income": 71159,
+    "monthly_expense": 77861,
+    "difference": -6702,
+    "financial_status": "дефицит"
+  },
+  {
+    "user_id": "853486559",
+    "name": "Павел Андреев",
+    "age": 27,
+    "gender": "М",
+    "monthly_income": 95125,
+    "monthly_expense": 93290,
+    "difference": 1835,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "738788593",
+    "name": "Борис Кузнецов",
+    "age": 24,
+    "gender": "М",
+    "monthly_income": 29741,
+    "monthly_expense": 22894,
+    "difference": 6847,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "277791431",
+    "name": "Максим Фомин",
+    "age": 42,
+    "gender": "М",
+    "monthly_income": 67861,
+    "monthly_expense": 62145,
+    "difference": 5716,
+    "financial_status": "профицит"
+  },
+  {
+    "user_id": "700563370",
+    "name": "Галина Макарова",
+    "age": 34,
+    "gender": "Ж",
+    "monthly_income": 55731,
+    "monthly_expense": 42552,
+    "difference": 13179,
+    "financial_status": "профицит"
+  }
+]
