@@ -10,9 +10,17 @@ This repository contains a project that is a Telegram bot that will help you mon
 
 ## Структура проекта / Project structure
 
+### Папка bot:
+
+Данная папка содержит полностью рабочую реализацию бота на языке Phyton (в файл config.py необходиом добавить TELEGRAM_BOT_TOKEN).
+
+### Bot folder
+
+This folder contains a fully functional implementation of the bot in the Phyton language (add TELEGRAM_BOT_TOKEN to the config.py file).
+
 ### Папка data_generation:
 
-Здесь содержатся сгенерированные синтетические данные о личных финансах пользователей за месяц (их доходы и расходы). Данные используются для демонстрации полезности телеграм-бота, визуализации финансовых проблем и дальнейшей их аналитики. 
+Данная папка содержит сгенерированные синтетические данные о личных финансах пользователей за месяц (их доходы и расходы). Данные используются для демонстрации полезности телеграм-бота, визуализации финансовых проблем и дальнейшей их аналитики. 
 
 JSON-файл содержит информацию для 100 пользователей:
 1. user_id: Уникальный 9-значный идентификатор
@@ -45,6 +53,14 @@ The JSON file contains information for 100 users:
 ### Data_analysis folder:
 
 This folder contains an analysis of the generated syntactic data. The analysis includes data visualization, identification of key issues, and justification of the usefulness of the financial telegram bot.
+
+### Папка presentation
+
+Данная папка содержит презентацию для выступления.
+
+### Presentation folder
+
+This folder contains a presentation for a speech.
 
 ## Автор / Author
 Прохоренко С.А., ИСИБ-24-1, ИРНИТУ / Prokhorenko S.A., ISIB-24-1, IRNITU
